@@ -25,4 +25,5 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser uses the DOM API to render the notes on the page.
+![mermaid flowchart for single-page app](https://github.com/MrFatts/Full-Stack-Course/blob/main/part0/mermaid-history-2024-06-20-142620.json)
 
