@@ -1,8 +1,3 @@
-###mermaid flowchart LR
-SequenceDiagram
-participant browser
-participant server
-
 sequenceDiagram
     participant browser
     participant server
